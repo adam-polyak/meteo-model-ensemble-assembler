@@ -1,0 +1,13 @@
+# Netbeans
+# https://github.com/github/gitignore/blob/master/Global/NetBeans.gitignore
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbproject/
+test/
+nbactions.xml
+nb-configuration.xml
+build.xml
+manifest.mf
